@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-image: url("https://i1.faceprep.in/cartoon-background.png");
+    background-size: cover;
+    padding: 230px;
+    color: white;
+}
+h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 4em;
+}
+h3{
+    font-size: 2em;
+}
+h4{
+    font-size: 1.5em;
+    font-weight: 400;
+}
+section p,img{
+    padding: 10px;
+}
+#tomjerry{
+    background-color: #FAB201;
+}
+#shinchan{
+    background-color: #FB4F93;
+}
+#pokemon{
+    background-color: #00C7DA;
+}
+img{
+    border: 5px solid white;
+}
+.cartoons{
+    color: white;
+    padding: 70px;
+}
+
